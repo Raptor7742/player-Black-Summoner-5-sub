@@ -25,7 +25,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Black Summoner - épisode 1 VOSTFR",
+      title: "Black Summoner - épisode 5 VOSTFR",
       description: "Vous regardez",
       image: "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/30c52b8f481041c3e629bbf67c90811e.jpe",
       sources: [
@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://www.myvi.tv/stream/xn-KSFjetkuT33QX-372Ug2/2.mp4?s=JkwUeMYeaL72w-3ystiHHnW_Fq9D2ozdDMgSfyYsQFmNbGU0UtSpdvuByKdZ261-Qrv3nyVfqDih5BltPP4sqw2&r=eHQLvRwGWZ0aNJbVeHwTBZ6cb06SlNMIBvsipoSpy-2Mj3cdb90CHytmKzgU-feC0&d=1420133&ri=1q-331UlKUmzvY-vTGJfuw2",
           label: "720p"
         },
         {
